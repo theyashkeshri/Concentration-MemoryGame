@@ -1,10 +1,10 @@
 <h1 align="center">
 
 <br>
-Typescript NFL Memory Game 🏈
+Concentration - A Memory Game 
 </h1>
 
-<p align="center"> A memory game repository using TypeScript with React</p>
+<p align="center"> A memory game</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
