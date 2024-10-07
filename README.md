@@ -37,17 +37,23 @@ This game is developed as a Web Application using the following technologies:
 
 1. Clone or Download the Project as a Zip.
 2. Extract the Package.
-3. Go to the Appropriate Directory (where the package.json file is located) and open the Command Prompt.
-4. Download and Install [Node.js](https://nodejs.org/en/download/source-code) on your PC.
-5. Install all the Dependencies as well.
+3. Download and Install [Node.js](https://nodejs.org/en/download/prebuilt-installer) on your PC.
+   Note - Make sure this [Checkbox](https://github.com/csgoteresa/TypescriptRepository/blob/main/Nodejs%20Installer.png) is enabled during the Installation.
+4. After the Intallation. A Command Prompt Window will open to install all the Dependencies. Click **Allow**; this will install all the Dependencies.
+   Note - This process may take some time.
+5. Go to the Appropriate Directory (where the package.json file is located) and open the Command Prompt.
 6. Run the command below:
    
    ***npm run dev***
 
    It will run the application in Development Mode.
-7. Open the Local Host on your Browser. It will be visible in the Command Prompt.
+9. Open the Local Host on your Browser. It will be visible in the Command Prompt.
+    
+   <img src="https://github.com/csgoteresa/TypescriptRepository/blob/main/Local%20Host.png"> 
    
    Normally, the link is - [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Note - The page will reload if you make edits. If not,  just refresh the browser manually.
+
+**Run the Webpage at 80% Zoom for Best Results**
 <br>
