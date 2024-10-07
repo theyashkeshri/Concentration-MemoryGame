@@ -1,18 +1,5 @@
-<h1 align="center">
 
-<br>
-Concentration - A Memory Game 
-</h1>
-
-<p align="center"> A memory game</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
-
-<hr />
+# Concentration - A Memory Game 
 
 ## Website
 - Project website:  <a href="https://typescript-memory-game.surge.sh/" target="_blank"> typescript-memory-game.surge.sh </a> 💻 
