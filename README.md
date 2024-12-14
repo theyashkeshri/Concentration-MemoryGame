@@ -10,24 +10,13 @@ This game is developed as a Web Application using the following technologies:
 <div>
 1. React
  <br>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <br>
  2. TypeScript
- <br> 
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <br> 
 3. Node.js
  <br> 
- 
- <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
- <br> 
-4. CSS 
- <br> 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+4. CSS
  <br> 
 5. HTML 
- <br> 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
  <br> 
  </div>
  <br>
